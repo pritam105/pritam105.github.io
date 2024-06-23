@@ -1,36 +1,42 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f9;
     color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .container {
     width: 80%;
+    max-width: 800px;
     margin: 0 auto;
     padding: 20px;
     background-color: #fff;
-    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    margin-top: 40px;
 }
 
 h1, h2, h3 {
     color: #2c3e50;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
     font-size: 2.5em;
     margin-bottom: 0.5em;
-    border-bottom: 2px solid #c1e4fa;
-    display: inline-block;
+    border-bottom: 2px solid #46a4de;
+    /* display: inline-block; */
     padding-bottom: 5px;
 }
 
 h2 {
     font-size: 1.8em;
-    /* margin-top: 1.2em; */
+    margin-top: 1.2em;
     margin-bottom: 0.8em;
 }
 
@@ -52,6 +58,7 @@ a:hover {
 ul {
     list-style-type: none;
     padding: 0;
+    text-align: center;
 }
 
 li {
@@ -62,10 +69,13 @@ img {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
+    display: block;
+    margin: 0 auto;
 }
 
 .skills, .socials {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 10px;
 }
@@ -80,6 +90,7 @@ img {
 
 p {
     line-height: 1.6;
+    text-align: center;
 }
 
 @media (max-width: 768px) {
