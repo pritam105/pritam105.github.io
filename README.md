@@ -2,6 +2,8 @@
 
 I'm Pritam Mane ...
 
+https://pritam105.github.io
+
 - 👨🏻‍💻 I’m currently working as SDE-2 at JP Morgan Chase & Co.
 - 👨🏻‍🎓 I’ll be joining Northeastern Uni, Khoury College Boston in Fall 24 for MS in CS
   
