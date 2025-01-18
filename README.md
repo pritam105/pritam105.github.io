@@ -4,8 +4,8 @@ I'm Pritam Mane ...
 
 https://pritam105.github.io
 
-- 👨🏻‍💻 I’m currently working as SDE-2 at JP Morgan Chase & Co.
-- 👨🏻‍🎓 I’ll be joining Northeastern Uni, Khoury College Boston in Fall 24 for MS in CS
+- 👨🏻‍🎓 I’m currently pursuing MSCS at Northeastern Uni, Khoury College Boston.
+- 👨🏻‍💻 I have over 3 years of SWE experience, latest being SWE-II at JP Morgan Chase
   
 <!--
 **pritam105/pritam105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
